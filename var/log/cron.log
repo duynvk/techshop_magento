@@ -1,0 +1,8 @@
+[2023-05-30T08:10:19.706081+00:00] main.INFO: Cron Job indexer_reindex_all_invalid is run [] []
+[2023-05-30T08:10:21.324533+00:00] main.INFO: Cron Job indexer_reindex_all_invalid is successfully finished. Statistics: {"sum":1.6186130046844,"count":1,"realmem":23068672,"emalloc":25542168,"realmem_start":92798976,"emalloc_start":88670536} [] []
+[2023-05-30T08:10:21.333267+00:00] main.INFO: Cron Job indexer_update_all_views is run [] []
+[2023-05-30T08:10:21.352757+00:00] main.INFO: Cron Job indexer_update_all_views is successfully finished. Statistics: {"sum":0.019474983215332,"count":1,"realmem":0,"emalloc":213768,"realmem_start":115867648,"emalloc_start":114215696} [] []
+[2023-05-30T08:13:39.717491+00:00] main.INFO: Cron Job indexer_reindex_all_invalid is run [] []
+[2023-05-30T08:13:39.738798+00:00] main.INFO: Cron Job indexer_reindex_all_invalid is successfully finished. Statistics: {"sum":0.021353006362915,"count":1,"realmem":2097152,"emalloc":581848,"realmem_start":90701824,"emalloc_start":88069552} [] []
+[2023-05-30T08:13:39.749419+00:00] main.INFO: Cron Job indexer_update_all_views is run [] []
+[2023-05-30T08:13:39.771805+00:00] main.INFO: Cron Job indexer_update_all_views is successfully finished. Statistics: {"sum":0.022351980209351,"count":1,"realmem":0,"emalloc":278696,"realmem_start":92798976,"emalloc_start":88655328} [] []
